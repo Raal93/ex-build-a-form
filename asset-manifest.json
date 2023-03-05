@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ex-build-a-form/static/css/main.897e5dfb.css",
+    "main.js": "/ex-build-a-form/static/js/main.41550cf3.js",
+    "static/js/787.c3f126e8.chunk.js": "/ex-build-a-form/static/js/787.c3f126e8.chunk.js",
+    "index.html": "/ex-build-a-form/index.html",
+    "main.897e5dfb.css.map": "/ex-build-a-form/static/css/main.897e5dfb.css.map",
+    "main.41550cf3.js.map": "/ex-build-a-form/static/js/main.41550cf3.js.map",
+    "787.c3f126e8.chunk.js.map": "/ex-build-a-form/static/js/787.c3f126e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897e5dfb.css",
+    "static/js/main.41550cf3.js"
+  ]
+}
